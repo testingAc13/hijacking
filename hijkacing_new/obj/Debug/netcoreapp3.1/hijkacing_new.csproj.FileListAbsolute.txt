@@ -1,0 +1,5 @@
+C:\Users\paul\source\repos\hijkacing_new\hijkacing_new\obj\Debug\netcoreapp3.1\hijkacing_new.csproj.AssemblyReference.cache
+C:\Users\paul\source\repos\hijkacing_new\hijkacing_new\obj\Debug\netcoreapp3.1\hijkacing_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paul\source\repos\hijkacing_new\hijkacing_new\obj\Debug\netcoreapp3.1\hijkacing_new.AssemblyInfoInputs.cache
+C:\Users\paul\source\repos\hijkacing_new\hijkacing_new\obj\Debug\netcoreapp3.1\hijkacing_new.AssemblyInfo.cs
+C:\Users\paul\source\repos\hijkacing_new\hijkacing_new\obj\Debug\netcoreapp3.1\hijkacing_new.csproj.CoreCompileInputs.cache
