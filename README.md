@@ -1,6 +1,6 @@
 # hijacking
 
-sample: 
+Usage: 
 hijacking.exe -seesion 5 -target 3 -type password Pass1234
 
 Reference:
